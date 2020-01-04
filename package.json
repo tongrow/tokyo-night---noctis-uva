@@ -1,0 +1,21 @@
+{
+    "name": "tokyo-night---noctis-uva",
+    "displayName": "Tokyo Night + Noctis Uva",
+    "description": "Tokyo Night 0.4.8 colors and Noctis Uva 10.23.0 tokenColors. Fire combo!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Tokyo Night (Noctis edition)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Tokyo Night (Noctis edition)-color-theme.json"
+            }
+        ]
+    }
+}
